@@ -28,7 +28,7 @@ There are three different light types available in the scene:
 2. **Point Light**
 3. **Spot Light**
 
-You can toggle these light types using the following keys:
+You can toggle these light types using the following keys (long press!):
 - **1**: Directional light (press and hold to disable)
 - **2**: Point light (press and hold to enable)
 - **3**: Spot light (press and hold to enable)
